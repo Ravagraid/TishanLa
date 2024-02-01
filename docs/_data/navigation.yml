@@ -1,3 +1,5 @@
 main:
+  - title: "The Empire"
+    url: /solar_empire/
   - title: "About"
     url: /about/
