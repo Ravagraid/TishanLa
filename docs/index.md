@@ -10,4 +10,4 @@ author_profile: false
 
 And this is another paragraph!! Yay!
 
-Take a look at [this!](solar_empire)
+Take a look at [this!](solar-empire)
