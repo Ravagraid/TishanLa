@@ -1,8 +1,12 @@
 ---
 permalink: /solar-empire/
-title: "The Solar Empire Of Tishan'La"
-classes: wide
+# title: "The Solar Empire Of Tishan'La"
+# classes: wide
 Creation Date: 29/01/2024
+
+toc: true
+toc_label: "Table Of Contents"
+toc_icon: "cog"
 ---
 
 <sub>Pronunciation: (Shi-An-La)<br>
@@ -28,7 +32,7 @@ Recognised Languages (Respectively): [Kliks](_pages/Languages/kliks.md),
 [Tekali](_pages/Languages/tekali.md),
 and [Ceehuri](_pages/Languages/ceehuri.md)
 
-## Introduction
+## Introduction {#introduction}
 
 &emsp;The Empire of Tishan'La is a sovereign, interstellar nation state that spans three solar systems, or [Spheres](_pages/Locations/Stellar/three-spheres.md) thus far, with plans to expand further afield into what has commonly been called the [Far Realms](_pages/Locations/Stellar/far-realms.md), a zone of space that surrounds the Empire proper, and is home to a myriad of rumours, secrets, and other creatures that dwell within the vastness of the void. The population of the Empire is a topic of debate, as while a census had been conducted in the past, certain clerical errors, Byzantine bureaucracy and the destruction of important records has led to only an approximation of their number. While wildly disputed, the most accurate estimate is between 39 and 40 billion souls.
 
@@ -38,7 +42,7 @@ and [Ceehuri](_pages/Languages/ceehuri.md)
 
 &emsp;One area of note is its people, the stalward shianlani, or [Tishan'La'Ni](_pages/Ethnicities/tishanlani.md), in their local tongue. They are a people born of hard times and harsher conditions, as due to the fragmented nature of both their realm, and their many cultures,disputes often run rampant, if left unchecked. Despite such obvious shortcomings, they as a people believe in the unity of the nation above even cultural, or ethnic identity. They may have a streak of independence about them, but it is this unity of purpose, this collective pride in themselves as a nation, that allows them to see past such petty squabbles, when necessary.
 
-## General Information
+## General Information {#General}
 
 ### Motto
 
@@ -58,4 +62,7 @@ and [Ceehuri](_pages/Languages/ceehuri.md)
 
 - **[Lord Imperatorius](_pages/Titles_Ranks/lord_imperatorius.md):** The highest seat of power, rule undisputed and guardian of the Empire in action, if not in name. Whomsoever holds this title is granted the remit to write laws, conduct vast scientific, economic, and political projects without equal. It is a title held only by those who can unify an Empire, and those that wish for such a thing, do so with an envy unparalleled.
 - **[The Council Empyrean](_pages/Organisations/Political/council-empyrean.md):** The upkeep of an empire is no small task, and certainly impossible for just a single individual to manage, thus, the Lord Imperatorius has a council of trusted advisors, chosen principally for their integrity and prior sacrifices made for the nation. There are seven members of the council in total, with each having a distinct title and responsibility both to the state, and to the Lord Imperatorius. Over informal channels, the Council is often referred to as the Keepers, as they are the guardians of Tishan'La, from its majestics heights, to its disastrous follies.
-  - **[Keeper Of Visions](/docs/_pages/Titles_Ranks/keeper-visions.md):**
+  - **[Keeper Of Visions](_pages/Titles_Ranks/keeper-visions.md):** Responsible for the infrastructure, construction and manufacturing pursuits, including extra-solar stations and other artificial constructs. When a great structure is established in the influence of a Sphere, or Wanderer, it is typically the responsibility of this Keeper to ensure that such matters are handled with an eye towards perfection, and expediency. Currently, the reformation of infrastructure on the Throneworld takes up most, if not all of their time.
+  - **[Keeper Of Bulwarks](_pages/Titles_Ranks/keeper-bulwarks.md):** Sovereign nations, by their very nature, are little more than concepts without the presence of a military arm, or defensive measure. The Keeper of Bulwarks, then, is responsible for the establishment, maintenance, and development of such a military presence, that allows for the projection of power beyond the Empires borders, and peacekeeping within. Currently, these defence initiatives have suffered from a severe lack of funding, due in part to a relatively lengthy period of peace.
+  - **[Keeper Of Labour](_pages/Titles_Ranks/keeper-labour.md):** While one might consider a humble profession like farming to be far below them, or the ignoble cistern worker to be nothing short of a deplorable position to be in, it is too often the case that these jobs are necessary to the running of a functioning maintained society. Such tasks and many more that are needed, but not wanted, are under the purview of this Keeper, and while misunderstood by those of a higher social stratum, they are nonetheless Tishan'La'Ni deserving of acknowledgement, and respect, on the part of the Council.
+  - **[Keeper Of Paths](_pages/Titles_Ranks/keeper-paths.md):**
