@@ -93,3 +93,11 @@ and [Ceehuri](_pages/Languages/ceehuri.md)
 &emsp;Where some polities would choose to hoard their wealth within lavish ivory towers, gilded in all manner of shining metals and glittering jewels, the Empyreans use the wealth of the nation to further improve the lives of those within it. Or to suppress dissidents that seek to destabilise the Empire.
 
 &emsp;It is said that the gears of imperial mandate grind ever so slowly, and they would be correct, as those afore mentioned to organise the most pressing matters, take place every half-decia, or five years, before the start of the [Starbinding Festival](_pages/Rituals-Traditions/starbinding-festival.md).
+
+## Historical {#historical}
+
+### Founders {#founders}
+
+The Founder of the empire in its present state is [Levariel Demorial](_pages/Characters/Major/levariel_demorial.md).
+
+### History {#history}
