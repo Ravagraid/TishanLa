@@ -101,3 +101,11 @@ and [Ceehuri](_pages/Languages/ceehuri.md)
 The Founder of the empire in its present state is [Levariel Demorial](_pages/Characters/Major/levariel_demorial.md).
 
 ### History {#history}
+
+&emsp;It is often said that history, no matter how torturous, no matter how humiliating or mundane, no matter the horrors of endless conflict and the death toll of countless different ideologies that, through the simple fact of their very existence, is somehow written by the victor.
+
+&emsp;Theirs his a history painted red, dripping with an ever-present flow of crimson from conflict that reaches back tens of thousands of solar years, by the calendar of the empire. It is layer upon layer of battleground, unearthed weaponry, and failed attempts at landing a last decisive blow in a conflict that lasted for much, much longer than it had any right to.
+
+&emsp;As one might have surmised form such strong, emotive language, the notion that one can garner an unbiased view of the history of such a resilient people should be considered impossible. That is, if it weren't for one of the lesser-known duties of the Keeper of Paths; the safeguarding of knowledge, and the sanctification of what one might consider to be the only true history of the Empire. It is thanks to this that there exists, in any form, accounts of those fateful conflicts of yesteryear. However, as is often the case with the passage of time, the further back one ventures, the less precise the account becomes.
+
+&emsp;What history is known, is suffixed with the denomination of [Beah eahzhusa](_pages/Calendars/tishanlani_calendar.md), or when properly translated, Before the Era of Rebuilding, and thus abbreviated as BER (Before Era of Rebuilding) to understand the timescales involved. For further reading on the subject, see; [A History of Tishan'La](_pages/Documents/history-tishanla.md).
