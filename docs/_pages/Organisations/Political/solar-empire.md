@@ -119,3 +119,7 @@ The Founder of the empire in its present state is [Levariel Demorial](_pages/Cha
 &emsp;Directly under him is a complex web of organisations headed by the Council Empyrean, which act the hands of the Lord in their respective fields, and thus govern the more mundane aspects of the empire. Appointment to these positions can be described as Meritocratic, as each Keeper is appointed on their deeds alone, and by the Lord Imperatorius, alone.
 
 &emsp;The Lords Proliferate, however, are an organisation of one thousand Lords and Ladies that hold hereditary titles, lands, and honours. The origin of these accolades is mostly unknown, with many such honorifics heralding from a time before the current Lord Imperatorius, and his prodigiously long reign.
+
+### Economic System {#economics}
+
+&emsp;Rather curiously, Tishan'La uses a market economy, bolstered by a regulartory body known as the [Zhendra Determinancy](_pages/Organisations/Civil/zhendra-determinancy.md), under the Keeper Of Coin as a contingency to keep bad actors from the pursuit of monopolisation. As a result of this free market, certain innovations were made to capitalise on the notion of supply and demand to make transactions easier, giving rise to the [Accredation Mark](_pages/Technologies/accredation-mark.md)
