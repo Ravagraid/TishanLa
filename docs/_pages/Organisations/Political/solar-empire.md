@@ -1,6 +1,6 @@
 ---
 permalink: /solar-empire/
-# title: "The Solar Empire Of Tishan'La"
+title: "The Solar Empire Of Tishan'La"
 # classes: wide
 Creation Date: 29/01/2024
 
@@ -56,7 +56,7 @@ and [Ceehuri](_pages/Languages/ceehuri.md)
 
 &emsp;Contrasting these otherwise centralised cultural identities, the Yialei are, by their nature, fragmentary, with each flock holding its own ties, its own customs, and its own ceremonies. In some cases, even their own version of the greater Yiale tongue, which for the sake of completeness, is known as [Yiaiasian](_pages/Languages/yiaiasian.md), or "Sounds of the Yia."
 
-### Organisational Structure {#structure}
+### Organisational Structure {#org-structure}
 
 &emsp;As has been mentioned before, power within the empire is exercised from the highest authority, then channelled through other organisations, individuals, and positions of note to affect real change upon its many peoples. The structure of the empire, in broad strokes, can be laid out as follows;
 
@@ -108,4 +108,14 @@ The Founder of the empire in its present state is [Levariel Demorial](_pages/Cha
 
 &emsp;As one might have surmised form such strong, emotive language, the notion that one can garner an unbiased view of the history of such a resilient people should be considered impossible. That is, if it weren't for one of the lesser-known duties of the Keeper of Paths; the safeguarding of knowledge, and the sanctification of what one might consider to be the only true history of the Empire. It is thanks to this that there exists, in any form, accounts of those fateful conflicts of yesteryear. However, as is often the case with the passage of time, the further back one ventures, the less precise the account becomes.
 
-&emsp;What history is known, is suffixed with the denomination of [Beah eahzhusa](_pages/Calendars/tishanlani_calendar.md), or when properly translated, Before the Era of Rebuilding, and thus abbreviated as BER (Before Era of Rebuilding) to understand the timescales involved. For further reading on the subject, see; [A History of Tishan'La](_pages/Documents/history-tishanla.md).
+&emsp;What history is known, is suffixed with the denomination of [Beah Eahzhusa](_pages/Calendars/tishanlani_calendar.md), or when properly translated, Before the Era of Rebuilding, and thus abbreviated as BER (Before Era of Rebuilding) to understand the timescales involved. For further reading on the subject, see; [A History of Tishan'La](_pages/Documents/history-tishanla.md).
+
+## Geopolitical {#geopolitical}
+
+### Power Structure {#power-structure}
+
+&emsp;As a nation state, Tishan'La can be described as a Unitary, Autocratic state in which political power is concentrated from the top down. The Lord Imperatorius, then, can be described as an appointed Dictator, who earned his position through unifying the disparate peoples of his world, after a cataclysmic conflict.
+
+&emsp;Directly under him is a complex web of organisations headed by the Council Empyrean, which act the hands of the Lord in their respective fields, and thus govern the more mundane aspects of the empire. Appointment to these positions can be described as Meritocratic, as each Keeper is appointed on their deeds alone, and by the Lord Imperatorius, alone.
+
+&emsp;The Lords Proliferate, however, are an organisation of one thousand Lords and Ladies that hold hereditary titles, lands, and honours. The origin of these accolades is mostly unknown, with many such honorifics heralding from a time before the current Lord Imperatorius, and his prodigiously long reign.
