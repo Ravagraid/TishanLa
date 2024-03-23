@@ -9,17 +9,17 @@ toc_label: "Table Of Contents"
 toc_icon: "cog"
 ---
 
-<sub>Pronunciation: (Shi-An-La)<br>
-Founding Date: (I'll put this in later)<br>
+<small>Pronunciation: (Shi-An-La)<br>
+Founding Date: (I'll put this in later)</small>
 
-<sub>Type: Geopolitical, Empire<br>
+<small>Type: Geopolitical, Empire<br>
 System of Governance: Dictatorial Meritocracy<br>
 Demonym: [Tishan'La'Ni](_pages/Ethnicities/tishanlani.md) <br>
 Current Ruler: [Levariel Demorial](_pages/Characters/Major/levariel_demorial.md)<br>
 Seat Of Power: [Sha'yvra](_pages/Settlements/sharyvra.md)<br>
-Official Language: [Tishresha](_pages/Languages/tishresha.md)<br>
+Official Language: [Tishresha](_pages/Languages/tishresha.md)</small>
 
-<sub>Recognised subjects: [Tishan'La'Ni (Species)](_pages/Species/Sapient/tishanlani_species.md),
+<small>Recognised subjects: [Tishan'La'Ni (Species)](_pages/Species/Sapient/tishanlani_species.md),
 [Kahlkili](_pages/Species/Sapient/kahlkili.md),
 [Saurita](_pages/Species/Sapient/saurita.md),
 [Yiale](_pages/Species/Sapient/yiale.md),
@@ -31,6 +31,7 @@ Recognised Languages (Respectively): [Kliks](_pages/Languages/kliks.md),
 [Yiaiasian](_pages/Languages/yiaiasian.md),
 [Tekali](_pages/Languages/tekali.md),
 and [Ceehuri](_pages/Languages/ceehuri.md)
+</small>
 
 ## Introduction {#introduction}
 
@@ -123,3 +124,43 @@ The Founder of the empire in its present state is [Levariel Demorial](_pages/Cha
 ### Economic System {#economics}
 
 &emsp;Rather curiously, Tishan'La uses a market economy, bolstered by a regulartory body known as the [Zhendra Determinancy](_pages/Organisations/Civil/zhendra-determinancy.md), under the Keeper Of Coin as a contingency to keep bad actors from the pursuit of monopolisation. As a result of this free market, certain innovations were made to capitalise on the notion of supply and demand to make transactions easier, giving rise to the [Accredation Mark](_pages/Technologies/accredation-mark.md)
+
+### Official Currency {#currency}
+
+&emsp;There is only one currency that holds value within the Empire, that being the Imperial Skar, with its plural form being the Skarii (Scar-E). A single Skar is the lowest denomination of currency, and is counted in units of [12](_pages/Misc/counting-system.md), much like other systems of measurement that the empire uses. The Skar is back by what's known as the [Shardrask Standard](_pages/Materials/shardrask.md), wherein the value of the currency is based upon the finite reserves of such material, within the Empires labyrinthine vaults. Below is a table denoting the unit sizes of Skar, and their rough purchasing power, outside factors not withstanding;
+
+|  Coin   |  S   |  Si  |  Sl  |  Sh   |   la   |
+| :-----: | :--: | :--: | :--: | :---: | :----: |
+|  Skar   |  1   | 1/12 | 1/36 | 1/144 | 1/1728 |
+| Skarsi  |  12  |  1   | 1/6  | 1/12  | 1/144  |
+| Skarel  |  72  |  6   |  1   |  1/2  |  1/24  |
+| Skarsha | 144  |  12  |  2   |   1   |  1/12  |
+| Skarla  | 1728 | 144  |  24  |  12   |   1    |
+
+<small>Reference;
+Skar = S,
+Skarsi = Si,
+Skarel = Sl,
+Skarsha = Sh,
+Skarla = la
+</small>
+
+|  Cost  |                             Goods                             |
+| :----: | :-----------------------------------------------------------: |
+|  1 S   |                    1 lb (0.45 kg) of wheat                    |
+|  2 S   |            1 lb (0.45 kg) of flour or one chicken             |
+|  5 S   |                    1 lb (0.45 kg) of Salt                     |
+|  1 Si  |     1 lb (0.45 kg) of iron or 1 sq yd (0.84 m²) of canvas     |
+|  5 Si  | 1 lb (0.45 kg) of copper or 1 sq yd (0.84 m²) of cotton cloth |
+|  1 Sl  |             1 lb (0.45 kg) of ginger or one goat              |
+|  2 Sl  |      1 lb (0.45 kg) of cinnamon or pepper, or one sheep       |
+|  3 Sl  |              1 lb (0.45 kg) of cloves or one pig              |
+|  5 Sl  |    1 lb (0.45 kg) of silver or 1 sq yd (0.84 m²) of linen     |
+| 10 Sl  |             1 sq yd (0.84 m²) of silk or one cow              |
+| 15 Sl  |              1 lb (0.45 kg) of saffron or one ox              |
+| 50 Sl  |                    1 lb (0.45 kg) of gold                     |
+| 500 Sl |                  1 lb (0.45 kg) of platinum                   |
+
+<small>
+(Note: Not final list of costs for goods)
+</small>
