@@ -127,7 +127,7 @@ The Founder of the empire in its present state is [Levariel Demorial](_pages/Cha
 
 ### Official Currency {#currency}
 
-&emsp;There is only one currency that holds value within the Empire, that being the Imperial Skar, with its plural form being the Skarii (Scar-E). A single Skar is the lowest denomination of currency, and is counted in units of [12](_pages/Misc/counting-system.md), much like other systems of measurement that the empire uses. The Skar is back by what's known as the [Shardrask Standard](_pages/Materials/shardrask.md), wherein the value of the currency is based upon the finite reserves of such material, within the Empires labyrinthine vaults. Below is a table denoting the unit sizes of Skar, and their rough purchasing power, outside factors not withstanding;
+&emsp;There is only one currency that holds value within the Empire, that being the [Imperial [Skar](_pages/Item/Currency/imperial-skar.md)], with its plural form being the Skarii (Scar-E). A single Skar is the lowest denomination of currency, and is counted in units of [12](_pages/Misc/counting-system.md), much like other systems of measurement that the empire uses. The Skar is back by what's known as the [Shardrask Standard](_pages/Materials/shardrask.md), wherein the value of the currency is based upon the finite reserves of such material, within the Empires labyrinthine vaults. Below is a table denoting the unit sizes of Skar, and their rough purchasing power, outside factors not withstanding;
 
 |  Coin   |  S   |  Si  |  Sl  |  Sh   |   la   |
 | :-----: | :--: | :--: | :--: | :---: | :----: |
@@ -164,3 +164,12 @@ Skarla = la
 <small>
 (Note: Not final list of costs for goods)
 </small>
+
+### Legislative Body {#legislative}
+
+&emsp;Chiefly, the Lords Proliferate function as the body which drafts new laws into existence. This process can be explained briefly;
+
+1. &emsp;Every six years, laws are drafted by individual Lords, and support is gathered to present these drafts at what is called the [Sexennial Gathering](_pages\Rituals-Traditions\sexennial-gathering.md).
+2. &emsp;Should the draft garner approval of one tenth of the assembled Lords, the work comes the scrutiny of the remaining ninth, as those in support are expected to have read, understood, and found no flaw in the proposal.
+3. &emsp;During the process, there will always be at least one redraft, and if needed, as many as are required to redress any inconsistencies, or errors. These redrafts, perplexingly, can often take longer than the six-year period before being ready to be voted upon.
+4. &emsp;Upon completing the Clarification process, the proposal is put before the Upper House, which totals one twentieth of the whole, who put it to a two-thirds vote. If it passes, then the proposal is ratified into Imperial Law, as yet one more regulation within the great apparatus.
